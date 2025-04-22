@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="vehicles-filtrable-interactiu.xsl"?>
+<concessionari>
+  <vehicle id="V001">
+    <marca>Tesla</marca>
+    <model>Model S</model>
+    <any>2022</any>
+    <tipus>Elèctric</tipus>
+    <preu>85000</preu>
+    <autonomia>600</autonomia>
+    <potencia>670</potencia>
+    <consum>ECO</consum>
+    <features>Autopilot, Pantalla tàctil 17"</features>
+  </vehicle>
+  <vehicle id="V002">
+    <marca>Toyota</marca>
+    <model>RAV4</model>
+    <any>2021</any>
+    <tipus>SUV</tipus>
+    <preu>35000</preu>
+    <autonomia>0</autonomia>
+    <potencia>203</potencia>
+    <consum>B</consum>
+  </vehicle>
+  <vehicle id="V003">
+    <marca>Mercedes</marca>
+    <model>EQC</model>
+    <any>2023</any>
+    <tipus>Elèctric</tipus>
+    <preu>72000</preu>
+    <autonomia>450</autonomia>
+    <potencia>408</potencia>
+    <consum>ECO</consum>
+    <features>Carregament ràpid</features>
+  </vehicle>
+  <vehicle id="V004">
+    <marca>Ford</marca>
+    <model>Focus</model>
+    <any>2020</any>
+    <tipus>Sedan</tipus>
+    <preu>23000</preu>
+    <autonomia>0</autonomia>
+    <potencia>125</potencia>
+    <consum>A</consum>
+  </vehicle>
+  <vehicle id="V005">
+    <marca>Hyundai</marca>
+    <model>Kona Electric</model>
+    <any>2022</any>
+    <tipus>Elèctric</tipus>
+    <preu>42000</preu>
+    <autonomia>484</autonomia>
+    <potencia>204</potencia>
+    <consum>ECO</consum>
+  </vehicle>
+  <vehicle id="V006">
+    <marca>Nissan</marca>
+    <model>Leaf</model>
+    <any>2021</any>
+    <tipus>Elèctric</tipus>
+    <preu>32000</preu>
+    <autonomia>380</autonomia>
+    <potencia>150</potencia>
+    <consum>ECO</consum>
+    <features>Suite NissanConnect</features>
+  </vehicle>
+  <vehicle id="V007">
+    <marca>BMW</marca>
+    <model>iX</model>
+    <any>2023</any>
+    <tipus>Elèctric</tipus>
+    <preu>90000</preu>
+    <autonomia>500</autonomia>
+    <potencia>500</potencia>
+    <consum>ECO</consum>
+  </vehicle>
+  <vehicle id="V008">
+    <marca>Audi</marca>
+    <model>Q4 e-tron</model>
+    <any>2022</any>
+    <tipus>Elèctric</tipus>
+    <preu>55000</preu>
+    <autonomia>450</autonomia>
+    <potencia>300</potencia>
+    <consum>ECO</consum>
+  </vehicle>
+  <vehicle id="V009">
+    <marca>Kia</marca>
+    <model>Sportage</model>
+    <any>2021</any>
+    <tipus>SUV</tipus>
+    <preu>34000</preu>
+    <autonomia>0</autonomia>
+    <potencia>180</potencia>
+    <consum>B</consum>
+    <features>Techo solar</features>
+  </vehicle>
+  <vehicle id="V010">
+    <marca>Volvo</marca>
+    <model>XC40</model>
+    <any>2022</any>
+    <tipus>SUV</tipus>
+    <preu>40000</preu>
+    <autonomia>0</autonomia>
+    <potencia>250</potencia>
+    <consum>A</consum>
+  </vehicle>
+</concessionari>
